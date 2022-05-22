@@ -1,0 +1,2 @@
+# tarea5
+Se trata de un programa que incluye la librería string.h y utiliza las siguientes funciones para dar un ejemplo de su uso:strcat,strcpy,strcmp,strncpy,strstr.El programa mostrará un menú donde se indique que función que quiere probar (usando la opción 0 para salir), una vez que se elegida, el programa pide la(s) cadena(s) necesaria(s) para hacer la demostración: debe imprimir una breve descripción de lo que hace la función y da el resultado.
